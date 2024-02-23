@@ -37,7 +37,7 @@ Users can exit the program.
 
 1.Clone the repository:
 
-  git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/Lmezzz/PetAdoptionSystem.git
 
 2.Compile the program (using a C++ compatible compiler):
 
